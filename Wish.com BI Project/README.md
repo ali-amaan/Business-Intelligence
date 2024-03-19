@@ -4,16 +4,16 @@ This repository contains all the files and documentation for the business intell
 
 ## Repository Contents
 
-- `Wish.com raw dataset (excel)`: The initial dataset provided by Wish.com containing detailed listings and performance metrics of summer products sold on the platform.
-- `Wish.com raw dataset variables sheet (pdf)`: A PDF document outlining the definitions and descriptions of the variables included in the raw dataset.
-- `Data (post ETL) (excel)`: The processed dataset after performing Extract, Transform, and Load (ETL) operations. This file includes cleaned, translated, and segmented data ready for analysis.
-- `WISH BI (powerbi)`: The Power BI file with the complete setup for the BI analysis, including data models, visualizations, and reports.
-- `PowerBI Figures (pdf)`: A PDF document containing all the figures and charts generated from the Power BI analysis.
+- `Wish.com raw dataset` (excel): The initial dataset provided by Wish.com containing detailed listings and performance metrics of summer products sold on the platform.
+- `Wish.com raw dataset variables sheet` (pdf): A PDF document outlining the definitions and descriptions of the variables included in the raw dataset.
+- `Data (post ETL)` (excel): The processed dataset after performing Extract, Transform, and Load (ETL) operations. This file includes cleaned, translated, and segmented data ready for analysis.
+- `WISH BI` (powerbi): The Power BI file with the complete setup for the BI analysis, including data models, visualizations, and reports.
+- `PowerBI Figures` (pdf): A PDF document containing all the figures and charts generated from the Power BI analysis.
 - `WISH Sales BI Report`: The final report document that consolidates all findings, insights, and recommendations from the BI analysis.
 
 ## Project Structure
 
-- **Data Preparation**: The raw data was cleaned and prepared using Excel, where non-English text was translated, characters were corrected, and discounts were calculated. The 'Data (post ETL)' file reflects these changes.
+- **Data Preparation**: The raw data was cleaned and prepared using Excel, where several data preperation, cleaning, and transformation processes were carried out, including: non-English text was translated, characters were corrected, discounts were calculated, seperated tables were created by segments, etc. The 'Data (post ETL)' file reflects these changes.
 - **Analysis and Visualization**: Power BI was used to conduct the analysis and create visualizations, as documented in the 'WISH BI' file.
 - **Reporting**: Findings and insights were compiled into the 'WISH Sales BI Report', which includes a detailed narrative and recommendations for the Wish.com management team.
 
